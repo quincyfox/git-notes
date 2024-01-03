@@ -1,0 +1,24 @@
+## Version Control System (VCS)
+
+- Also known as **Source Code Management (SCM)**.
+- It is an important and powerful software tool that serves to keep track of and manage changes to files over time.
+- A VCS is similar to a *save* or *checkpoint* system in video games, where users can *take snapshots* of the state of files in a project folder at certain points in time; these changes are stored in a special kind of database.
+- This will allow users to access earlier versions of file(s), compare changes, and/or reverse/undo the changes in case something goes wrong.
+- VCS also allows users to create *'separate timelines'* (branches) of certain states, and may merge these separate branches later on if needed.
+- Using VCS is essential for tracking projects with collaborative workflows involving multiple contributors.
+
+### Types of Version Control Systems (VCS)
+1. **Centralized VCS**
+   - There is a single copy of the project and its history that is stored on a central server.
+   - Each user needs to be online to access and interact with the central server with their local machines to work on the project.
+   - Examples of *centralized VCS* are [Subversion(SVN)](https://subversion.apache.org/) and [Perforce](https://www.perforce.com/).
+
+2. **Distributed VCS**
+   - Each user has a copy of the entire project and its history in their respective local machines.
+   - Each user can work on the project even when offline.
+   - Examples of *distributed VCS* are [Git](https://git-scm.com/) and `Mercurial`.
+
+<< [Previous: README.md](/README.md)
+
+- `Git` is a type of **Version Control System (VCS)**.
+- It is the most widely-used VCS in the world today.
