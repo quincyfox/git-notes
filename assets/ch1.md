@@ -11,14 +11,13 @@
 1. **Centralized VCS**
    - There is a single copy of the project and its history that is stored on a central server.
    - Each user needs to be online to access and interact with the central server with their local machines to work on the project.
-   - Examples of *centralized VCS* are [Subversion(SVN)](https://subversion.apache.org/) and [Perforce](https://www.perforce.com/).
+   - Examples of *centralized VCS* are [Concurrent Versions System (CVS)](https://cvs.nongnu.org/), [Subversion(SVN)](https://subversion.apache.org/) and [Perforce](https://www.perforce.com/).
 
 2. **Distributed VCS**
    - Each user has a copy of the entire project and its history in their respective local machines.
    - Each user can work on the project even when offline.
-   - Examples of *distributed VCS* are [Git](https://git-scm.com/) and `Mercurial`.
+   - Examples of *distributed VCS* are [Git](https://git-scm.com/) and [Mercurial](https://www.mercurial-scm.org/).
 
-<< [Previous: README.md](/README.md)
+< [Previous: README.md](/README.md)
 
-- `Git` is a type of **Version Control System (VCS)**.
-- It is the most widely-used VCS in the world today.
+[Next: Git](/assets/ch2.md) >
