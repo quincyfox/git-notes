@@ -1,4 +1,4 @@
-## Git Installation: Windows
+## Git Setup: Windows
 
 - Download and install [Visual Studio Code](https://code.visualstudio.com/) if you haven't done so.
 
@@ -14,11 +14,23 @@
 
 - Another option is to use [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install).
 
-- After finishing installation, open *Git Bash* and type `git --version` or `git -v` at the terminal. If everything goes well, you should see the output `git version x.xx.x.windows.1` with the version number in place of the *x*.
+- After finishing installation, open *Git Bash* and check the `Git` version:
 
+```shell
+$ git -v
+git version x.xx.x.windows.1
+```
+
+- If you want to update `Git` via terminal:
+
+```shell
+$ git update-git-for-windows
+```
+
+<hr>
 
 << Start: [README.md](/README.md)
 
 < Previous: [Git Installation: Requirements](/assets/ch3.md)
 
-Next: Git Installation: MacOS >
+Next: [Git Setup: MacOS](/assets/ch5.md) >

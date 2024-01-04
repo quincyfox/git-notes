@@ -10,7 +10,8 @@ A collection of (unofficial) notes on `Git` and `GitHub`, gathered from various 
 ## Section 2: Setting Up Git
 
 - [Git Installation: Requirements](assets/ch3.md)
-- [Git Installation: Windows](assets/ch4.md)
+- [Git Setup: Windows](assets/ch4.md)
+- [Git Setup: MacOS](assets/ch5.md)
 
 ## Resources
 - [Git Official Website](https://git-scm.com/)

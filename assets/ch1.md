@@ -29,6 +29,8 @@
 
    - Examples of *distributed VCS* are [Git](https://git-scm.com/) and [Mercurial](https://www.mercurial-scm.org/).
 
+<hr>
+
 < Previous: [README.md](/README.md)
 
 Next: [Git Overview](/assets/ch2.md) >

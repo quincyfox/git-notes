@@ -8,6 +8,8 @@
 
 - `Git` can be installed and set up on computers with different types of Operating Systems.
 
+<hr>
+
 << Start: [README.md](/README.md)
 
 < Previous: [Git Overview](/assets/ch2.md)

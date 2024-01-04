@@ -59,6 +59,7 @@ Git (with or without GitHub) has proven useful for tracking and managing single 
 
 - `GitHub` nor an Internet connection is not a prerequisite for using `Git`; you can continue using `Git` on your computer even when you are offline and don't have access to the Internet.
 
+<hr>
 
 << Start: [README.md](/README.md)
 
