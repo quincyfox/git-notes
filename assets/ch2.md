@@ -13,7 +13,7 @@
 - `Git` allows tracking of changes made across different files, comparing project versions, accessing earlier versions of files *("time traveling")*, and also facilitates collaboration between multiple developers, wherein they can share changes made with each other, and finally combine those changes and resolve any conflicts that may arise until the project is finalized.
 
 
-### ...So Why is It Called 'Git'?
+### ... So Why is It Called 'Git'?
 
 - According to the [README.md](https://github.com/git/git/blob/master/README.md) file of the Git source code repository:
 
@@ -56,3 +56,10 @@ Git (with or without GitHub) has proven useful for tracking and managing single 
 - `Git` is not dependent on `GitHub` and can be used without the latter.
 
 - `GitHub` nor an Internet connection is not a prerequisite for using `Git`; you can continue using `Git` on your computer even when you are offline and don't have access to the Internet.
+
+
+<< Start: [README.md](/README.md)
+
+< Previous: [Version Control System](/assets/ch1.md)
+
+Next: [Git Installation: Requirements](/assets/ch3.md) >

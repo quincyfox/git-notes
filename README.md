@@ -9,6 +9,8 @@ A collection of (unofficial) notes on `Git` and `GitHub`, gathered from various 
 
 ## Section 2: Setting Up Git
 
+- [Git Installation: Requirements](assets/ch3.md)
+
 ## Resources
 - [Git Official Website](https://git-scm.com/)
 - [Git Official Source Code Repository](https://github.com/git/git)
