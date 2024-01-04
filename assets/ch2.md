@@ -6,6 +6,8 @@
 
 - It is the most widely-used version control system in the world today.
 
+- The latest version of Git is v.2.43.
+
 - `Git` was created by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) (who also happens to be the creator of the Linux kernel, but that is for another story!) in 2005, after [BitKeeper](https://www.bitkeeper.org/), the VCS he initially used for Linux development, revoked its free license. As he wasn't able to find a suitable replacement (and being the legend that he is), Torvalds decided to take matters into his own hands and ended up developing his own version control system!
 
 - It is currently maintained by a team of software engineers led by Google engineer [Junio Hamano](https://simple.wikipedia.org/wiki/Junio_Hamano), to whom Torvalds turned the entire Git project over.

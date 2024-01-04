@@ -12,4 +12,4 @@
 
 < Previous: [Git Overview](/assets/ch2.md)
 
-Next: Git Installation: Windows >
+Next: [Git Installation: Windows](/assets/ch4.md) >
