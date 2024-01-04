@@ -42,7 +42,7 @@ Git (with or without GitHub) has proven useful for tracking and managing single 
 
 - Datasets and codebases used in scientific or academic research.
 
-- Literature work, such as books, novels, screenplays, and others.
+- Literary work, such as books, novels, screenplays, and others.
 
 - Musical work by composers/musicians.
 
