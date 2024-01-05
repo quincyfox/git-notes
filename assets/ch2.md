@@ -1,5 +1,10 @@
 ## Git Overview
-![icons8-git](https://github.com/quincyfox/git-notes/assets/152384382/26ae0f06-8561-409a-87a1-8772b874f22a)
+
+<div>
+    <img 
+        src="https://github.com/quincyfox/git-notes/assets/152384382/26ae0f06-8561-409a-87a1-8772b874f22a" alt="git icon" 
+        width="150">
+</div>
 
 ### What is Git?
 - `Git` is a free, fast, and open-source **Distributed Version Control System (DVCS)**.
