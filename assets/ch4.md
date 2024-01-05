@@ -10,9 +10,7 @@
 
     - For the rest of the options, leave them as is.
 
-- **Git for Windows** includes a special Unix-based CLI called **Git Bash**; this is the recommended way to work with `Git` on Windows as the latter's **Command Prompt** is not compatible with `Git`.
-
-- Another option is to use [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install).
+- **Git for Windows** includes a special Unix-based CLI called **Git Bash**; this is the recommended way to work with `Git` on Windows.
 
 - After finishing installation, open *Git Bash* and check the `Git` version:
 

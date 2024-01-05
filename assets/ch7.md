@@ -4,6 +4,8 @@
 
 - To do this, use the `git config` command. The `--global` switch will allow `Git` to apply your configuration settings across all project repositories that you will create later on.
 
+- You will only need to do this configuration once, unless you intend to change the user name and email later on.
+
 - To configure user name:
 ```shell
 $ git config --global user.name "<your name>"
@@ -47,7 +49,7 @@ $ git config init.defaultBranch
             < Previous: <a href="/assets/ch6.md">Git Setup: Linux</a>
         </td>
         <td>
-            Next: <a href="#">Bash Basics</a> >
+            Next: <a href="/assets/ch8.md">Bash Basics: Introduction</a> >
         </td>
       </tr>
    </tbody>

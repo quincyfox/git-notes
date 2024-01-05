@@ -15,6 +15,10 @@ A collection of (unofficial) notes on `Git` and `GitHub`, gathered from various 
 - [Git Setup: Linux](assets/ch6.md)
 - [Git Configuration](assets/ch7.md)
 
+## Section 3: Bash Basics
+
+- [Bash Basics: Introduction](assets/ch8.md)
+
 ## Resources
 - [Git Official Website](https://git-scm.com/)
 - [Git Official Source Code Repository](https://github.com/git/git)
