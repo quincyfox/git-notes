@@ -31,6 +31,14 @@
 
 <hr>
 
+<table>
+   <tbody>
+      <tr>
+         <td>Previous: <a href="/README.md">README.md</a></td>
+      </tr>
+   </tbody>
+</table>
+
 < Previous: [README.md](/README.md)
 
 Next: [Git Overview](/assets/ch2.md) >

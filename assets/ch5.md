@@ -18,4 +18,4 @@ git version x.xx.x (Apple Git-128)
 
 < Previous: [Git Setup: Windows](/assets/ch4.md)
 
-Next: Git Setup: Linux >
+Next: [Git Setup: Linux](/assets/ch6.md) >
