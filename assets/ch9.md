@@ -1,0 +1,151 @@
+## Terminal Navigation
+
+### whoami
+- Outputs the name of the current user
+
+```shell
+$ whoami
+```
+<hr>
+
+### pwd
+- Stands for *print working directory*.
+- Displays the path of the current directory.
+
+```shell
+$ pwd
+```
+
+- *Directories* are simply folders that may contain files and/or more folders ("subdirectories") inside of them.
+
+<hr>
+
+### ls
+- Stands for *list*.
+- Lists the files and folders in the current directory.
+
+```shell
+$ ls
+```
+- To display the files and folders in the current directory in [long-list](https://linuxconfig.org/understanding-of-ls-command-with-a-long-listing-format-output-with-permission-bits) format:
+```shell
+$ ls -l
+```
+- To list all files and folders, including hidden ones, in the current directory:
+```shell
+$ ls -a
+```
+
+- To list all files and folders contained in a specific directory:
+```shell
+$ ls <folder name>
+# you can also use the -l and -a options here
+# example: ls -l <folder name>
+```
+
+- To list all files and folders contained in a specific path:
+```shell
+$ ls <path>
+# Example: ls Documents/Project
+```
+
+- In the Bash terminal, folders are denoted by having a forward slash(/) at the end of the name. Example: `folder_name/`.
+- When specifying a path, each folder name should be separated by a forward-slash(/). Example: `Username/Desktop/Notes/file.txt`.
+
+<hr>
+
+### open or start
+- Used to launch the *Finder* or *File Explorer* GUI in MacOS and Windows, respectively.
+
+- To launch *Finder* in the current directory (MacOS):
+```shell
+$ open .
+```
+
+- To launch *Finder* and open a specific folder (MacOS):
+```shell
+$ open <folder name>
+```
+
+- To launch *File Explorer* in the current directory (Windows):
+```shell
+$ start .
+```
+
+- To launch *File Explorer* and open a specific folder (Windows):
+```shell
+$ start <folder name>
+```
+
+<hr>
+
+### code .
+- Launches the **VS Code** editor from the Terminal, and at the same time opens the current folder in VS Code.
+
+```shell
+$ code .
+```
+
+<hr>
+
+### cd
+- Stands for *change directory*.
+- Command used to navigate or move between directories/folders.
+
+```shell
+$ cd <folder name>
+```
+or
+```shell
+$ cd <path>
+```
+
+- To move up one level from the current directory:
+```shell
+$ cd ..
+```
+- To move up two levels from the current directory:
+```shell
+$ cd ../..
+```
+
+- The home or starting directory is denoted by `~`. To navigate to the home directory from the current directory:
+```shell
+$ cd ~
+```
+
+<hr>
+
+### clear
+- Clears the terminal (screen).
+
+```shell
+$ clear
+```
+
+<hr>
+
+### exit
+- Exits the terminal (but not Vim).
+
+```shell
+$ exit
+```
+
+<hr>
+
+<table align="center">
+   <tbody>
+      <tr>
+        <td>
+            << Start: <a href="/README.md">README.md</a>
+        </td>
+        <td>
+            < Previous: <a href="/assets/ch8.md">Bash Basics: Introduction</a>
+        </td>
+        <td>
+            Next: <a href="#">TBA</a> >
+        </td>
+      </tr>
+   </tbody>
+</table>

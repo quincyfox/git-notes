@@ -18,6 +18,7 @@ A collection of (unofficial) notes on `Git` and `GitHub`, gathered from various 
 ## Section 3: Bash Basics
 
 - [Bash Basics: Introduction](assets/ch8.md)
+- [Terminal Navigation](assets/ch9.md)
 
 ## Resources
 - [Git Official Website](https://git-scm.com/)

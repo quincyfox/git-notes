@@ -28,7 +28,7 @@
             < Previous: <a href="/assets/ch7.md">Git Configuration</a>
         </td>
         <td>
-            Next: <a href="#">TBA</a> >
+            Next: <a href="/assets/ch9.md">Terminal Navigation</a> >
         </td>
       </tr>
    </tbody>
