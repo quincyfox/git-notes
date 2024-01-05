@@ -37,7 +37,7 @@ $ sudo yum install git
             < Previous: <a href="/assets/ch5.md">Git Setup: MacOS</a>
         </td>
         <td>
-            Next: <a href="#">Git Configuration</a> >
+            Next: <a href="/assets/ch7.md">Git Configuration</a> >
         </td>
       </tr>
    </tbody>

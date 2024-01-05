@@ -1,0 +1,54 @@
+## Git Configuration
+
+- In order to set up `Git` properly, you need to configure your user name, email, and default branch name (if you haven't set this up during installation).
+
+- To do this, use the `git config` command. The `--global` switch will allow `Git` to apply your configuration settings across all project repositories that you will create later on.
+
+- To configure user name:
+```shell
+$ git config --global user.name "<your name>"
+# make sure to enclose your name in quotes as above.
+```
+
+- To configure email:
+```shell
+$ git config --global user.email <your@email.com>
+```
+
+- To configure default branch name:
+```shell
+$ git config --global init.defaultBranch main
+```
+
+- To check the configured user name:
+```shell
+$ git config user.name
+```
+
+- To check the configured email:
+```shell
+$ git config user.email
+```
+
+- To check the configured default branch name:
+```shell
+$ git config init.defaultBranch
+```
+
+<hr>
+
+<table align="center">
+   <tbody>
+      <tr>
+        <td>
+            << Start: <a href="/README.md">README.md</a>
+        </td>
+        <td>
+            < Previous: <a href="/assets/ch6.md">Git Setup: Linux</a>
+        </td>
+        <td>
+            Next: <a href="#">Bash Basics</a> >
+        </td>
+      </tr>
+   </tbody>
+</table>
