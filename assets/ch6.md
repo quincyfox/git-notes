@@ -25,8 +25,20 @@ or
 $ sudo yum install git
 ```
 
-<< Start: [README.md](/README.md)
+<hr>
 
-< Previous: [Git Setup: MacOS](/assets/ch5.md)
-
-Next: Git Configuration >
+<table align="center">
+   <tbody>
+      <tr>
+        <td>
+            << Start: <a href="/README.md">README.md</a>
+        </td>
+        <td>
+            < Previous: <a href="/assets/ch5.md">Git Setup: MacOS</a>
+        </td>
+        <td>
+            Next: <a href="#">Git Configuration</a> >
+        </td>
+      </tr>
+   </tbody>
+</table>

@@ -14,8 +14,18 @@ git version x.xx.x (Apple Git-128)
 
 <hr>
 
-<< Start: [README.md](/README.md)
-
-< Previous: [Git Setup: Windows](/assets/ch4.md)
-
-Next: [Git Setup: Linux](/assets/ch6.md) >
+<table align="center">
+   <tbody>
+      <tr>
+        <td>
+            << Start: <a href="/README.md">README.md</a>
+        </td>
+        <td>
+            < Previous: <a href="/assets/ch4.md">Git Setup: Windows</a>
+        </td>
+        <td>
+            Next: <a href="/assets/ch6.md">Git Setup: Linux</a> >
+        </td>
+      </tr>
+   </tbody>
+</table>

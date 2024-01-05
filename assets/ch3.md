@@ -10,8 +10,18 @@
 
 <hr>
 
-<< Start: [README.md](/README.md)
-
-< Previous: [Git Overview](/assets/ch2.md)
-
-Next: [Git Installation: Windows](/assets/ch4.md) >
+<table align="center">
+   <tbody>
+      <tr>
+        <td>
+            << Start: <a href="/README.md">README.md</a>
+        </td>
+        <td>
+            < Previous: <a href="/assets/ch2.md">Git Overview</a>
+        </td>
+        <td>
+            Next: <a href="/assets/ch4.md">Git Setup: Windows</a> >
+        </td>
+      </tr>
+   </tbody>
+</table>

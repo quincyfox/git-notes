@@ -66,8 +66,18 @@ Git (with or without GitHub) has proven useful for tracking and managing single 
 
 <hr>
 
-<< Start: [README.md](/README.md)
-
-< Previous: [Version Control System](/assets/ch1.md)
-
-Next: [Git Installation: Requirements](/assets/ch3.md) >
+<table align="center">
+   <tbody>
+      <tr>
+        <td>
+            << Start: <a href="/README.md">README.md</a>
+        </td>
+        <td>
+            < Previous: <a href="/assets/ch1.md">Version Control System (VCS)</a>
+        </td>
+        <td>
+            Next: <a href="/assets/ch3.md">Git Installation: Requirements</a> >
+        </td>
+      </tr>
+   </tbody>
+</table>

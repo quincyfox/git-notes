@@ -29,8 +29,18 @@ $ git update-git-for-windows
 
 <hr>
 
-<< Start: [README.md](/README.md)
-
-< Previous: [Git Installation: Requirements](/assets/ch3.md)
-
-Next: [Git Setup: MacOS](/assets/ch5.md) >
+<table align="center">
+   <tbody>
+      <tr>
+        <td>
+            << Start: <a href="/README.md">README.md</a>
+        </td>
+        <td>
+            < Previous: <a href="/assets/ch3.md">Git Installation: Requirements</a>
+        </td>
+        <td>
+            Next: <a href="/assets/ch5.md">Git Setup: MacOS</a> >
+        </td>
+      </tr>
+   </tbody>
+</table>

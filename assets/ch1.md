@@ -31,14 +31,15 @@
 
 <hr>
 
-<table>
+<table align="center">
    <tbody>
       <tr>
-         <td>Previous: <a href="/README.md">README.md</a></td>
+         <td>
+            < Previous: <a href="/README.md">README.md</a>
+         </td>
+         <td> 
+            Next: <a href="/assets/ch2.md">Git Overview</a> >
+         </td>
       </tr>
    </tbody>
 </table>
-
-< Previous: [README.md](/README.md)
-
-Next: [Git Overview](/assets/ch2.md) >
