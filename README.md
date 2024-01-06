@@ -21,6 +21,10 @@ A collection of (unofficial) notes on `Git` and `GitHub`, gathered from various 
 - [Terminal Navigation](assets/s3/ch09.md)
 - [File / Folder Operations](assets/s3/ch10.md)
 
+## Section 4: Git Proper
+
+- [The Git Repository](assets/s4/ch11.md)
+
 ## Resources
 - [Git Official Website](https://git-scm.com/)
 - [Git Official Source Code Repository](https://github.com/git/git)
