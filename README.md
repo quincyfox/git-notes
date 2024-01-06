@@ -4,21 +4,22 @@ A collection of (unofficial) notes on `Git` and `GitHub`, gathered from various 
 
 ## Section 1: Introduction
 
-- [Version Control System (VCS)](assets/ch1.md)
-- [Git Overview](assets/ch2.md)
+- [Version Control System (VCS)](assets/s1/ch01.md)
+- [Git Overview](assets/s1/ch02.md)
 
 ## Section 2: Setting Up Git
 
-- [Git Installation: Requirements](assets/ch3.md)
-- [Git Setup: Windows](assets/ch4.md)
-- [Git Setup: MacOS](assets/ch5.md)
-- [Git Setup: Linux](assets/ch6.md)
-- [Git Configuration](assets/ch7.md)
+- [Git Installation: Requirements](assets/s2/ch03.md)
+- [Git Setup: Windows](assets/s2/ch04.md)
+- [Git Setup: MacOS](assets/s2/ch05.md)
+- [Git Setup: Linux](assets/s2/ch06.md)
+- [Git Configuration](assets/s2/ch07.md)
 
 ## Section 3: Bash Basics
 
-- [Bash Basics: Introduction](assets/ch8.md)
-- [Terminal Navigation](assets/ch9.md)
+- [Bash Basics: Introduction](assets/s3/ch08.md)
+- [Terminal Navigation](assets/s3/ch09.md)
+- [File / Folder Operations](assets/s3/ch10.md)
 
 ## Resources
 - [Git Official Website](https://git-scm.com/)
