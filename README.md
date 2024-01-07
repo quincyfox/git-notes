@@ -29,6 +29,7 @@ A collection of (unofficial) notes on `Git` and `GitHub`, gathered from various 
 - [The Git Workflow](assets/s4/ch14.md)
 - [Staging](assets/s4/ch15.md)
 - [Committing](assets/s4/ch16.md)
+- [Checking the Commit Log](assets/s4/ch17.md)
 
 ## Resources
 - [Git Official Website](https://git-scm.com/)
