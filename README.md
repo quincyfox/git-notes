@@ -24,7 +24,8 @@ A collection of (unofficial) notes on `Git` and `GitHub`, gathered from various 
 ## Section 4: Git Proper
 
 - [The Git Repository](assets/s4/ch11.md)
-- [Git Operation: Check Repository Status](assets/s4/ch12.md)
+- [Git Operation: Checking Repository Status](assets/s4/ch12.md)
+- [Git Operation: Initializing a Repository](assets/s4/ch13.md)
 
 ## Resources
 - [Git Official Website](https://git-scm.com/)
