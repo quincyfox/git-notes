@@ -15,20 +15,20 @@ A collection of (unofficial) notes on `Git` and `GitHub`, gathered from various 
 - [Git Setup: Linux](assets/s2/ch06.md)
 - [Git Configuration](assets/s2/ch07.md)
 
-## Section 3: Bash Basics
+## Section 3: Bash 101
 
 - [Bash Basics: Introduction](assets/s3/ch08.md)
 - [Terminal Navigation](assets/s3/ch09.md)
 - [File / Folder Operations](assets/s3/ch10.md)
 
-## Section 4: Git Proper
+## Section 4: Basic Git
 
 - [The Git Repository](assets/s4/ch11.md)
-- [Git Operation: Checking Repository Status](assets/s4/ch12.md)
-- [Git Operation: Initializing a Repository](assets/s4/ch13.md)
+- [Checking Repository Status](assets/s4/ch12.md)
+- [Initializing a Repository](assets/s4/ch13.md)
 - [The Git Workflow](assets/s4/ch14.md)
-- [Git Operation: Staging](assets/s4/ch15.md)
-- [Git Operation: Committing](assets/s4/ch16.md)
+- [Staging](assets/s4/ch15.md)
+- [Committing](assets/s4/ch16.md)
 
 ## Resources
 - [Git Official Website](https://git-scm.com/)
@@ -38,3 +38,4 @@ A collection of (unofficial) notes on `Git` and `GitHub`, gathered from various 
 - [Types of Version Control (Bitbucket)](https://support.atlassian.com/bitbucket-cloud/docs/types-of-version-control/)
 - [Git (Wikipedia)](https://en.wikipedia.org/wiki/Git)
 - [The Git and Github Bootcamp by Colt Steele (Udemy)](https://www.udemy.com/course/git-and-github-bootcamp/)
+- [Writing a Good Git Commit Message](https://www.gitkraken.com/learn/git/best-practices/git-commit-message)
