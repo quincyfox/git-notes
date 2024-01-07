@@ -28,6 +28,7 @@ A collection of (unofficial) notes on `Git` and `GitHub`, gathered from various 
 - [Git Operation: Initializing a Repository](assets/s4/ch13.md)
 - [The Git Workflow](assets/s4/ch14.md)
 - [Git Operation: Staging](assets/s4/ch15.md)
+- [Git Operation: Committing](assets/s4/ch16.md)
 
 ## Resources
 - [Git Official Website](https://git-scm.com/)
